@@ -20,10 +20,9 @@ public class IniciarSesion_DAO  implements InterfaceIniciarSesionDAO{
 
 
         //Adiministradores
-        administradores.add(new ModeloIniciarSesion("Juan Cifuentes", "2179800"));
+        administradores.add(new ModeloIniciarSesion("Cristian", "CDU2023"));
         administradores.add(new ModeloIniciarSesion("Franklin", "1841743"));
-        administradores.add(new ModeloIniciarSesion("Wilson Andres", "2182116"));
-        administradores.add(new ModeloIniciarSesion("Jhon Riascos", "2024464"));
+
     }
 
     @Override
